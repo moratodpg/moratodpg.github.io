@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I join AiDAPT lab at TU Delft at Postdoctoral Researcher.
+I joined AiDAPT lab at TU Delft as a Postdoctoral Researcher.
