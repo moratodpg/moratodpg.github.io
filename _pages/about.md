@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.tudelft.nl/ai/aidapt#c871580'>TU Delft's AI-Lab for Design, Analysis, and Optimization</a>
 
