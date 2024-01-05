@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Architecture and Built Environment, TU Delft</p>
     <p>Julianalaan 134</p>
-    <p>2628 BL Delft, Netherlands</p>
+    <p>2628 BL Delft, the Netherlands</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
