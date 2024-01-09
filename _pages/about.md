@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Postdoctoral Researcher in reinforcement learning and computer vision at [AiDAPT, TU Delft](https://www.tudelft.nl/ai/aidapt#c871580).  
-My research focuses on the investigation and advancement of efficient methods for optimal sequential decision-making under uncertainty and imperfect information. My current research projects involve the development of algorithmic platforms relying on Markov Decision Processes, Bayesian Networks, and Deep Reinforcement Learning for managing large-scale engineering systems, with emphasis on offshore wind applications.
+My research focuses on the investigation and advancement of efficient methods for optimal sequential decision-making under uncertainty and imperfect information. My current research projects involve the development of algorithmic platforms relying on Markov Decision Processes, Bayesian Networks, and Deep Reinforcement Learning for managing large-scale engineering systems.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
